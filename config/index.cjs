@@ -36,7 +36,7 @@ const USER_CONFIG = {
         //  type: '生日', name: '李四', year: '1996', date: '09-31',
        // },
         {
-          type: '节日', name: '解放日', year: '2020', date: '12-24',
+          type: '节日', name: '解放日', year: '2022', date: '12-24',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'QrXPA0MtCInHRaUcVOvzTRJwy6DnsW9FaB-rUIdOaOs',
 
   CALLBACK_USERS: [
     {
