@@ -14,16 +14,16 @@ const USER_CONFIG = {
   APP_SECRET: '4170308b6b8a934666fd17c0aebbe540',
 
   PROVINCE: '湖北',
-  CITY: '十堰',
+  CITY: '孝感',
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: '小徐',
+      name: '小宋',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'orGaO6UR-WzOvPH696amwnN6ESUc',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'QrXPA0MtCInHRaUcVOvzTRJwy6DnsW9FaB-rUIdOaOs',
+      useTemplateId: '	ZmIJ41QnE8YAyfVLIEcgCfpAYsmEktHWB4l3tmmE4Q4',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
